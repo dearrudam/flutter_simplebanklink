@@ -1,6 +1,6 @@
 # flutter_simplebanklink
 
-A new Flutter project.
+It's a project created during the Alura's course: [Fundamentos de Flutter: Crie o seu primeiro App](https://www.alura.com.br/curso-online-flutter-fundamentos)
 
 ## Getting Started
 
